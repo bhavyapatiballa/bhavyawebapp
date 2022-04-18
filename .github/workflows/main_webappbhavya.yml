@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'webappbhavya'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1AB8EA29C149458FAEF9BA7CD7E76E9A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_04F6CB21CC7F46F6886C5C780715709A }}
           package: .
